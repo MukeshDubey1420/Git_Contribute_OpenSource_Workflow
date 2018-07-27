@@ -5,3 +5,5 @@ git add filename
 git commit -m "commit message "
 git remote add origin paste your link 
 git push origin master
+
+yippiiee finally data uploaded to github 
